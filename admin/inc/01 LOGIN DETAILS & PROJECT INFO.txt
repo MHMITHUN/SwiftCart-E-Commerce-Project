@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!***
+**Log on***
 
 **Database Name: ecommerceweb**
 
-**Developed by Hammad Hassan**
+**Developed by Sumya Soma & MD. Mahamudul Hasan**
 
 **Recommended PHP Version 5.6, 7.4**
 
